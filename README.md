@@ -1,5 +1,5 @@
 # (A1Z26) Cipher Numbers To Letters (For CTF-ers)
-Simple tool has written in Python that converts numbers to letters,
+Simple tool written in Python that converts numbers to letters,
 
 It shortness the time for the user who is going to compare letters and numbers manually.
 
@@ -14,7 +14,7 @@ For example A=1, B=2, Z=26, hence its over name A1Z26.
 ## Who can use it?
 Anyone who is participating in CTF's competetions having same these challenges.
 
-## How the it works?
+## How it works?
 * First insert the number of elements in the flag topic.
 * Second insert the values of these elements.
 * Third insert the number of elements in the flag its self.
